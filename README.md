@@ -3,6 +3,7 @@
 Este repositorio contiene los materiales didácticos y recursos asociados al proyecto **Inmersi-On**, desarrollado en el marco del módulo de *Realidad Virtual y Realidad Aumentada* del **Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual**. Su propósito es guiar al alumnado y profesorado en el diseño y desarrollo de simuladores educativos utilizando tecnologías inmersivas: Realidad Virtual (RV), Realidad Aumentada (RA) y Realidad Mixta (RM).
 
 ## 📁 Estructura del repositorio
+```
 .
 ├── alumnos/
 │   ├── Presentación pdf para alumnos.pdf
@@ -12,6 +13,7 @@ Este repositorio contiene los materiales didácticos y recursos asociados al pro
 │   ├── Proyecto inmersion.pdf
 │   └── RA-Avaluar.xlsx
 └── README.md
+````
 
 ## 📚 Descripción de carpetas
 
